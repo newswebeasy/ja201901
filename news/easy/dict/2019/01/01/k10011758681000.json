@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１９８９<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１月８日</rb><rt>いちがつようか</rt></ruby>からあとの、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>年号</rb><rt>ねんごう</rt></ruby>。",
+          "hyouki": [
+            "平成"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国王</rb><rt>こくおう</rt></ruby>などが<ruby><rb>位</rb><rt>くらい</rt></ruby>を<ruby><rb>退</rb><rt>しりぞ</rt></ruby>くこと。",
+          "hyouki": [
+            "退位"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>で、あとつぎになる<ruby><rb>皇子</rb><rt>おうじ</rt></ruby>。",
+          "hyouki": [
+            "皇太子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "学者"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "案"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。",
+          "hyouki": [
+            "案"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "祝日"
+          ]
+        }
+      ]
+    }
+  }
+}

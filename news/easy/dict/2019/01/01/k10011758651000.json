@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "EU"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。",
+          "hyouki": [
+            "ワイン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。",
+          "hyouki": [
+            "関税"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ]
+    }
+  }
+}

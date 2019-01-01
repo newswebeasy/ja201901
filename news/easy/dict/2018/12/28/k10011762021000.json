@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "売り上げ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ]
+    }
+  }
+}
