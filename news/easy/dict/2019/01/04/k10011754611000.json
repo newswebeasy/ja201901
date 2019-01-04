@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "プラスチック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>麦</rb><rt>むぎ</rt></ruby>わらやビニルなどで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>管</rb><rt>くだ</rt></ruby>。ジュースなどを<ruby><rb>飲</rb><rt>の</rt></ruby>むときに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ストロー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "すぎ。<ruby><rb>幹</rb><rt>みき</rt></ruby>がまっすぐで、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>をしている<ruby><rb>高木</rb><rt>こうぼく</rt></ruby>。<ruby><rb>建築</rb><rt>けんちく</rt></ruby>や<ruby><rb>家具</rb><rt>かぐ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "杉"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。",
+          "hyouki": [
+            "巻く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ]
+    }
+  }
+}
