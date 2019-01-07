@@ -1,0 +1,172 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "いくつかある<ruby><rb>建物</rb><rt>たてもの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>主</rb><rt>しゅ</rt></ruby>になる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        },
+        {
+          "def": "この<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>当館</rb><rt>とうかん</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>や<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>のもととして<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。",
+          "hyouki": [
+            "資料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。",
+          "hyouki": [
+            "鉄"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "よく<ruby><rb>燃</rb><rt>も</rt></ruby>えるように、<ruby><rb>煙</rb><rt>けむり</rt></ruby>を<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>筒</rb><rt>つつ</rt></ruby>。",
+          "hyouki": [
+            "煙突"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>などを<ruby><rb>落</rb><rt>お</rt></ruby>とされて、<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>されること。",
+          "hyouki": [
+            "被爆"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>・<ruby><rb>水爆</rb><rt>すいばく</rt></ruby>の<ruby><rb>被害</rb><rt>ひがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。",
+          "hyouki": [
+            "被爆"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ]
+    }
+  }
+}

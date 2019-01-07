@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "すすを、にかわで<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。また、これを<ruby><rb>水</rb><rt>みず</rt></ruby>ですった<ruby><rb>黒</rb><rt>くろ</rt></ruby>いしる。<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>をかくのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "墨"
+          ]
+        },
+        {
+          "def": "イカやタコがはき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>黒</rb><rt>くろ</rt></ruby>いしる。",
+          "hyouki": [
+            "墨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、ほかのものを<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "溶かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>などで<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようにする。",
+          "hyouki": [
+            "溶かす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>の<ruby><rb>祭</rb><rt>まつ</rt></ruby>りのときにかつぐもの。<ruby><rb>中</rb><rt>なか</rt></ruby>にご<ruby><rb>神体</rb><rt>しんたい</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>っている。おみこし。",
+          "hyouki": [
+            "みこし"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>のつけねの<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "肩"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の、<ruby><rb>上</rb><rt>うえ</rt></ruby>のかど。",
+          "hyouki": [
+            "肩"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>月日</rb><rt>つきひ</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る。<ruby><rb>暮</rb><rt>く</rt></ruby>らす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "そのままにしておく。",
+          "hyouki": [
+            "過ごす"
+          ]
+        }
+      ]
+    }
+  }
+}
