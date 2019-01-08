@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>縦横</rb><rt>たてよこ</rt></ruby>に１９<ruby><rb>本</rb><rt>ほん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>盤</rb><rt>ばん</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>二人</rb><rt>ふたり</rt></ruby>で<ruby><rb>代</rb><rt>か</rt></ruby>わる<ruby><rb>代</rb><rt>が</rt></ruby>わるに<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>地</rb><rt>じ</rt></ruby>）を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うゲーム。<ruby><rb>囲碁</rb><rt>いご</rt></ruby>。",
+          "hyouki": [
+            "碁"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "小学生"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けが<ruby><rb>決</rb><rt>き</rt></ruby>まらないで、<ruby><rb>終</rb><rt>お</rt></ruby>わりになること。",
+          "hyouki": [
+            "引き分け"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>がつらくて、がまんできない。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>足</rb><rt>た</rt></ruby>りなくて<ruby><rb>困</rb><rt>こま</rt></ruby>るようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>があるようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "…しにくい。",
+          "hyouki": [
+            "苦しい"
+          ]
+        }
+      ]
+    }
+  }
+}

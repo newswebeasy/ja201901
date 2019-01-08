@@ -1,0 +1,146 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アメリカのワシントンにある<ruby><rb>大統領</rb><rt>だいとうりょう</rt></ruby>の<ruby><rb>官邸</rb><rt>かんてい</rt></ruby>。ここで<ruby><rb>大統領</rb><rt>だいとうりょう</rt></ruby>が<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>が<ruby><rb>白</rb><rt>しろ</rt></ruby>いのでこう<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれる。",
+          "hyouki": [
+            "ホワイトハウス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>うこと。<ruby><rb>願</rb><rt>ねが</rt></ruby>っていること。",
+          "hyouki": [
+            "願い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いて、さし<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>願書</rb><rt>がんしょ</rt></ruby>。",
+          "hyouki": [
+            "願い"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しこみなどを<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "受け付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>意見</rb><rt>いけん</rt></ruby>やたのみなどを<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "受け付ける"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。",
+          "hyouki": [
+            "賛成"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>書類</rb><rt>しょるい</rt></ruby>などに、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、その<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。<ruby><rb>記名</rb><rt>きめい</rt></ruby>。サイン。",
+          "hyouki": [
+            "署名"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ものごとをおし<ruby><rb>進</rb><rt>すす</rt></ruby>めるときの、よりどころとする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "基地"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ラジオ・テレビなどで<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>する<ruby><rb>芸能人</rb><rt>げいのうじん</rt></ruby>。",
+          "hyouki": [
+            "タレント"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "ズボンなどの、<ruby><rb>腰</rb><rt>こし</rt></ruby>をしめる<ruby><rb>帯</rb><rt>おび</rt></ruby>。ベルト。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "はばの<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>平</rb><rt>ひら</rt></ruby>たいひも。",
+          "hyouki": [
+            "バンド"
+          ]
+        },
+        {
+          "def": "<ruby><rb>楽団</rb><rt>がくだん</rt></ruby>や<ruby><rb>楽隊</rb><rt>がくたい</rt></ruby>。",
+          "hyouki": [
+            "バンド"
+          ]
+        }
+      ]
+    }
+  }
+}

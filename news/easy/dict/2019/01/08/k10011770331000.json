@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>苦</rb><rt>くる</rt></ruby>しさ・<ruby><rb>痛</rb><rt>いた</rt></ruby>さ・つらさなどを、じっとこらえること。しんぼう。",
+          "hyouki": [
+            "我慢"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "お<ruby><rb>坊</rb><rt>ぼう</rt></ruby>さん。<ruby><rb>僧</rb><rt>そう</rt></ruby>。",
+          "hyouki": [
+            "僧侶"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ]
+    }
+  }
+}

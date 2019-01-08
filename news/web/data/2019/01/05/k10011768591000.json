@@ -25,11 +25,18 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011768591000/k10011768591000.html",
+      "title": "仲邑菫さん いちばん若い１０歳で囲碁のプロになる",
+      "time": "NEWSWEB EASY 1月8日",
+      "datetime": "2019-01-08"
+    }
+  ],
   "word": [],
   "news_id": "k10011768591000",
   "yyyy": "2019",
   "mm": "01",
   "dd": "05",
-  "url": "https://www3.nhk.or.jp/news/html/20190105/k10011768591000.html?utm_int=all_side_ranking-social_004"
+  "url": "https://www3.nhk.or.jp/news/html/20190105/k10011768591000.html"
 }
