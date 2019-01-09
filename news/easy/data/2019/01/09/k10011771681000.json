@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011771681000",
+  "news_prearranged_time": "2019-01-09 16:30:00",
+  "title": "「アトレ」が台湾にショッピングセンターをオープン",
+  "title_with_ruby": "「アトレ」が<ruby>台湾<rt>たいわん</rt></ruby>にショッピングセンターをオープン",
+  "outline_with_ruby": "<p>「アトレ」はＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>にあるショッピングセンターの<ruby>会社<rt>かいしゃ</rt></ruby>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190109/../20190109/K10011771681_1901090541_1901090541_01_03.jpg",
+  "news_web_movie_uri": "k10011771681_201901090541_201901090541.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011771681000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011771681000/k10011771681000.html"
+}

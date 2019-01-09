@@ -1,0 +1,34 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ]
+    }
+  }
+}

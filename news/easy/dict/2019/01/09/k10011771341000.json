@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>異性</rb><rt>いせい</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きになる<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。<ruby><rb>恋愛</rb><rt>れんあい</rt></ruby>。",
+          "hyouki": [
+            "恋"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>苦</rb><rt>くる</rt></ruby>しみ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>ごと。",
+          "hyouki": [
+            "悩み"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}
