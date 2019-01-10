@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011772721000",
+  "news_prearranged_time": "2019-01-10 15:05:00",
+  "title": "インフルエンザになる人が増えている",
+  "title_with_ruby": "インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>によると、<ruby>先月<rt>せんげつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>約<rt>やく</rt></ruby></a>５０００の<ruby>病院<rt>びょういん</rt></ruby>などで<a href='javascript:void(0)' class='dicWin' id='id-0000'>インフルエンザ</a>だとわかった<ruby>人<rt>ひと</rt></ruby>は５<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190109/../20190109/K10011772721_1901092059_1901092119_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011772721000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011772721000/k10011772721000.html"
+}

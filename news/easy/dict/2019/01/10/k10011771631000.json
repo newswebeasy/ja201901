@@ -1,0 +1,206 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>の、<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>い。<ruby><rb>調</rb><rt>しら</rt></ruby>べ。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "ぐあい。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>回</rb><rt>まわ</rt></ruby>し。<ruby><rb>口調</rb><rt>くちょう</rt></ruby>。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。",
+          "hyouki": [
+            "調子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "<ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。",
+          "hyouki": [
+            "心臓"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "動き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。<ruby><rb>変動</rb><rt>へんどう</rt></ruby>。<ruby><rb>変化</rb><rt>へんか</rt></ruby>。",
+          "hyouki": [
+            "動き"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>息</rb><rt>いき</rt></ruby>をはいたり、<ruby><rb>吸</rb><rt>す</rt></ruby>ったりすること。<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>を<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>。<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "こつ。",
+          "hyouki": [
+            "呼吸"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いことが<ruby><rb>起</rb><rt>お</rt></ruby>こらないように、<ruby><rb>気</rb><rt>き</rt></ruby>をつけて<ruby><rb>守</rb><rt>まも</rt></ruby>ること。",
+          "hyouki": [
+            "警備"
+          ]
+        }
+      ]
+    }
+  }
+}

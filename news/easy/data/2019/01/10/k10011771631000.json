@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011771631000",
+  "news_prearranged_time": "2019-01-10 11:30:00",
+  "title": "住んでいる人の体の調子を家が調べる",
+  "title_with_ruby": "<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べる",
+  "outline_with_ruby": "<p><ruby>１人<rt>ひとり</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいるお<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>年寄<rt>としよ</rt></ruby>り</a>などが、<ruby>家<rt>いえ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>突然<rt>とつぜん</rt></ruby></a><ruby>倒<rt>たお</rt></ruby>れても、<ruby>見<rt>み</rt></ruby>つかるのが<ruby>遅<rt>おそ</rt></ruby>くて<ruby>亡<rt>な</rt></ruby>くなる<ruby>場合<rt>ばあい</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190109/../20190109/K10011771631_1901090009_1901090732_01_02.jpg",
+  "news_web_movie_uri": "k10011771631_201901090908_201901090909.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011771631000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011771631000/k10011771631000.html"
+}

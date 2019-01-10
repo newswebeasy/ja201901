@@ -1,0 +1,198 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>が、<ruby><rb>災難</rb><rt>さいなん</rt></ruby>から<ruby><rb>守</rb><rt>まも</rt></ruby>ってくれるという<ruby><rb>札</rb><rt>ふだ</rt></ruby>。",
+          "hyouki": [
+            "お守り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>水気</rb><rt>みずけ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>う。また、<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>がなくなって<ruby><rb>命</rb><rt>いのち</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "枯れる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>がらや<ruby><rb>芸事</rb><rt>げいごと</rt></ruby>などに）<ruby><rb>深</rb><rt>ふか</rt></ruby>みが<ruby><rb>出</rb><rt>で</rt></ruby>てくる。",
+          "hyouki": [
+            "枯れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。",
+          "hyouki": [
+            "願う"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。",
+          "hyouki": [
+            "配る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "配る"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>薬</rb><rt>くすり</rt></ruby>を<ruby><rb>混</rb><rt>ま</rt></ruby>ぜ<ruby><rb>合</rb><rt>あ</rt></ruby>わせる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>資格</rb><rt>しかく</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。また、その<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "薬剤師"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。",
+          "hyouki": [
+            "合格"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "合格"
+          ]
+        }
+      ]
+    }
+  }
+}
