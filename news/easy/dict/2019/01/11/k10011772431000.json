@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>などを、<ruby><rb>編集</rb><rt>へんしゅう</rt></ruby>・<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>して<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "出版"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "アドレス"
+          ]
+        },
+        {
+          "def": "インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。",
+          "hyouki": [
+            "アドレス"
+          ]
+        }
+      ]
+    }
+  }
+}

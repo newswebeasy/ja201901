@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>台所</rb><rt>だいどころ</rt></ruby>などにいる<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。<ruby><rb>黒</rb><rt>くろ</rt></ruby>やこげ<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>でつやがある。<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>害虫</rb><rt>がいちゅう</rt></ruby>。アブラムシ。",
+          "hyouki": [
+            "ごきぶり"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ]
+    }
+  }
+}
