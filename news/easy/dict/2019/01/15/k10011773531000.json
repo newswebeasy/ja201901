@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>・<ruby><rb>四国</rb><rt>しこく</rt></ruby>・<ruby><rb>九州</rb><rt>きゅうしゅう</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>島々</rb><rt>しまじま</rt></ruby>がある。<ruby><rb>気候</rb><rt>きこう</rt></ruby>は<ruby><rb>温暖</rb><rt>おんだん</rt></ruby>で<ruby><rb>雨</rb><rt>あめ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>ない。",
+          "hyouki": [
+            "瀬戸内海"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>・<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などを、<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>・ことばなどによって<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>など。",
+          "hyouki": [
+            "芸術"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -2,8 +2,8 @@
   "cate": "6",
   "date": "1æ10æ¥ 14æ53å",
   "datetime": "2019-01-10T14:53",
-  "video": "",
-  "duration": 0,
+  "video": "/news/html/20190110/movie/k10011773531_201901101725_201901101726.html",
+  "duration": 21,
   "img": "html/20190110/K10011773531_1901101449_1901101453_01_02.jpg",
   "title": "「瀬戸内の島々」ことし行くべき旅行先７位に ＮＹタイムズ",
   "summary": "アメリカの有力紙が選ぶ「ことし行くべき52か所の旅行先」に日本から唯一、「瀬戸内の島々」が選ばれ、７位にランクインしました。「芸術と自然が調和する場所」として紹介され、海外からの注目が高まることが期待されます。",
@@ -18,11 +18,23 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
-  "word": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011773531000/k10011773531000.html",
+      "title": "アメリカの新聞「今年旅行にいい場所」瀬戸内海の島が７番",
+      "time": "NEWSWEB EASY 1月15日",
+      "datetime": "2019-01-15"
+    }
+  ],
+  "word": [
+    {
+      "link": "word/0000564.html",
+      "title": "国際５"
+    }
+  ],
   "news_id": "k10011773531000",
   "yyyy": "2019",
   "mm": "01",
   "dd": "10",
-  "url": "https://www3.nhk.or.jp/news/html/20190110/k10011773531000.html?utm_int=news_contents_news-main_006"
+  "url": "https://www3.nhk.or.jp/news/html/20190110/k10011773531000.html"
 }
