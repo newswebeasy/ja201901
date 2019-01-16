@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボランティア"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>するときに、はらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "交通費"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１９９５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>平成</rb><rt>へいせい</rt></ruby>七<ruby><rb>年</rb><rt>ねん</rt></ruby>）<ruby><rb>１月</rb><rt>いちがつ</rt></ruby><ruby><rb>１７日</rb><rt>じゅうしちにち</rt></ruby>、<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby><ruby><rb>南部</rb><rt>なんぶ</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>きた<ruby><rb>大地震</rb><rt>おおじしん</rt></ruby>による<ruby><rb>災害</rb><rt>さいがい</rt></ruby>。<ruby><rb>死者</rb><rt>ししゃ</rt></ruby>が<ruby><rb>約</rb><rt>やく</rt></ruby>６５００<ruby><rb>人</rb><rt>にん</rt></ruby>も<ruby><rb>出</rb><rt>で</rt></ruby>るなどの<ruby><rb>大被害</rb><rt>だいひがい</rt></ruby>をもたらした。",
+          "hyouki": [
+            "阪神淡路大震災"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>けのある、やわらかい<ruby><rb>土</rb><rt>つち</rt></ruby>。",
+          "hyouki": [
+            "泥"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ]
+    }
+  }
+}

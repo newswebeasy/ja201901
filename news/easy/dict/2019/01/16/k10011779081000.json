@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。",
+          "hyouki": [
+            "底"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあける。",
+          "hyouki": [
+            "掘る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から、<ruby><rb>何</rb><rt>なに</rt></ruby>かを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "掘る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあける。",
+          "hyouki": [
+            "掘る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から、<ruby><rb>何</rb><rt>なに</rt></ruby>かを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "掘る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "プレート"
+          ]
+        },
+        {
+          "def": "<ruby><rb>皿</rb><rt>さら</rt></ruby>。",
+          "hyouki": [
+            "プレート"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ピッチャーが<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>投</rb><rt>な</rt></ruby>げるときにふむ<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>。ホームプレート。",
+          "hyouki": [
+            "プレート"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>を１００キロメートルほどの<ruby><rb>厚</rb><rt>あつ</rt></ruby>さでおおっている<ruby><rb>岩盤</rb><rt>がんばん</rt></ruby>。",
+          "hyouki": [
+            "プレート"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}
