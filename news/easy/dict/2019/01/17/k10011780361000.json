@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１９９５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>平成</rb><rt>へいせい</rt></ruby>７<ruby><rb>年</rb><rt>ねん</rt></ruby>）<ruby><rb>１月</rb><rt>いちがつ</rt></ruby><ruby><rb>１７日</rb><rt>じゅうしちにち</rt></ruby>、<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby><ruby><rb>南部</rb><rt>なんぶ</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>きた<ruby><rb>大地震</rb><rt>おおじしん</rt></ruby>による<ruby><rb>災害</rb><rt>さいがい</rt></ruby>。<ruby><rb>死者</rb><rt>ししゃ</rt></ruby>が<ruby><rb>約</rb><rt>やく</rt></ruby>６５００<ruby><rb>人</rb><rt>にん</rt></ruby>も<ruby><rb>出</rb><rt>で</rt></ruby>るなどの<ruby><rb>大被害</rb><rt>だいひがい</rt></ruby>をもたらした。",
+          "hyouki": [
+            "阪神淡路大震災"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>やこよりをしんにして、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りをろうで<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。しんに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて<ruby><rb>明</rb><rt>あ</rt></ruby>かりにする。",
+          "hyouki": [
+            "ろうそく"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}

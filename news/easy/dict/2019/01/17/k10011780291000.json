@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>の<ruby><rb>仕組</rb><rt>しく</rt></ruby>みや<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "制度"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>食道</rb><rt>しょくどう</rt></ruby>でつながっている<ruby><rb>消化器官</rb><rt>しょうかきかん</rt></ruby>。<ruby><rb>食</rb><rt>た</rt></ruby>べたものをこなすところ。<ruby><rb>胃</rb><rt>い</rt></ruby>ぶくろ。",
+          "hyouki": [
+            "胃"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>のほうにある<ruby><rb>器官</rb><rt>きかん</rt></ruby>。じん<ruby><rb>臓</rb><rt>ぞう</rt></ruby>から<ruby><rb>送</rb><rt>おく</rt></ruby>られてくるにょうを、<ruby><rb>一時</rb><rt>いちじ</rt></ruby>ためておくところ。",
+          "hyouki": [
+            "ぼうこう"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>消化器</rb><rt>しょうかき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>小腸</rb><rt>しょうちょう</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>き、<ruby><rb>肛門</rb><rt>こうもん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。おもに<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>い<ruby><rb>取</rb><rt>と</rt></ruby>るはたらきをする。",
+          "hyouki": [
+            "大腸"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>哺乳動物</rb><rt>ほにゅうどうぶつ</rt></ruby>の<ruby><rb>雌</rb><rt>めす</rt></ruby>の、<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すところ。にゅうぼう。",
+          "hyouki": [
+            "乳房"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ]
+    }
+  }
+}

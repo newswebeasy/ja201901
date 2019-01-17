@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011780361000",
+  "news_prearranged_time": "2019-01-17 15:50:00",
+  "title": "阪神・淡路大震災から２４年　亡くなった人のために祈る",
+  "title_with_ruby": "<ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby>から２４<ruby>年<rt>ねん</rt></ruby>　<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る",
+  "outline_with_ruby": "<p>１７<ruby>日<rt>にち</rt></ruby>、６４３４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなった<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby></a>から２４<ruby>年<rt>ねん</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190117/../20190117/K10011780361_1901170622_1901170626_01_03.jpg",
+  "news_web_movie_uri": "k10011780361_201901170622_201901170623.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011780361000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011780361000/k10011780361000.html"
+}
