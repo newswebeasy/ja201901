@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。",
+          "hyouki": [
+            "じゃがいも"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>湯気</rb><rt>ゆげ</rt></ruby>で<ruby><rb>熱</rb><rt>ねっ</rt></ruby>する。ふかす。",
+          "hyouki": [
+            "蒸す"
+          ]
+        },
+        {
+          "def": "むし<ruby><rb>暑</rb><rt>あつ</rt></ruby>く<ruby><rb>感</rb><rt>かん</rt></ruby>じられる。",
+          "hyouki": [
+            "蒸す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "おさえつけて<ruby><rb>形</rb><rt>かたち</rt></ruby>をこわす。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "だめにする。<ruby><rb>失</rb><rt>うしな</rt></ruby>う。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>空</rb><rt>あ</rt></ruby>いたところを、うめる。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "そこなう。",
+          "hyouki": [
+            "潰す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>花</rb><rt>はな</rt></ruby>を<ruby><rb>形作</rb><rt>かたちづく</rt></ruby>っている<ruby><rb>一枚</rb><rt>いちまい</rt></ruby><ruby><rb>一枚</rb><rt>いちまい</rt></ruby>のうすいもの。<ruby><rb>花弁</rb><rt>かべん</rt></ruby>。",
+          "hyouki": [
+            "花びら"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>くねじって、<ruby><rb>水</rb><rt>みず</rt></ruby>けを<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "絞る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "絞る"
+          ]
+        },
+        {
+          "def": "カメラの<ruby><rb>絞</rb><rt>しぼ</rt></ruby>りを<ruby><rb>小</rb><rt>ちい</rt></ruby>さくして、レンズに<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "絞る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げるものごとの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>をせまくする。",
+          "hyouki": [
+            "絞る"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ]
+    }
+  }
+}

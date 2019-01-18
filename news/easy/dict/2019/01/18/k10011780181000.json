@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを、<ruby><rb>借</rb><rt>か</rt></ruby>りきること。",
+          "hyouki": [
+            "チャーター"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "料金"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。",
+          "hyouki": [
+            "国際線"
+          ]
+        }
+      ]
+    }
+  }
+}

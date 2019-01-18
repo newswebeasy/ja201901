@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>。クイーン。",
+          "hyouki": [
+            "女王"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>皇族</rb><rt>こうぞく</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>言</rb><rt>い</rt></ruby>うことば。",
+          "hyouki": [
+            "殿下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胴</rb><rt>どう</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby><ruby><rb>辺</rb><rt>あた</rt></ruby>りより<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>粉</rb><rt>こな</rt></ruby>や、もちなどの、ねばり。",
+          "hyouki": [
+            "腰"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ]
+    }
+  }
+}
