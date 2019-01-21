@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011781411000",
+  "news_prearranged_time": "2019-01-21 11:30:00",
+  "title": "バンクシーがかいた絵かどうか　東京都が調べる",
+  "title_with_ruby": "バンクシーがかいた<ruby>絵<rt>え</rt></ruby>かどうか　<ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べる",
+  "outline_with_ruby": "<p><ruby>先月<rt>せんげつ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>芸術家<rt>げいじゅつか</rt></ruby></a>のバンクシーの<ruby>絵<rt>え</rt></ruby>が<ruby>防潮扉<rt>ぼうちょうとびら</rt></ruby>にかいてあると<ruby>東京都<rt>とうきょうと</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>入<rt>はい</rt></ruby>りました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190117/../20190117/K10011781411_1901171825_1901171836_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011781411000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011781411000/k10011781411000.html"
+}

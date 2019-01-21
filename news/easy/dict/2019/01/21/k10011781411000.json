@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>土</rb><rt>つち</rt></ruby>のある<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "陸"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>などにすみ、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>食</rb><rt>く</rt></ruby>いあらす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ノネズミ・イエネズミ・ハツカネズミなどがいる。",
+          "hyouki": [
+            "鼠"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ってはなす。",
+          "hyouki": [
+            "外す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。",
+          "hyouki": [
+            "外す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>りにがす。",
+          "hyouki": [
+            "外す"
+          ]
+        },
+        {
+          "def": "そらす。",
+          "hyouki": [
+            "外す"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>をはなれる。",
+          "hyouki": [
+            "外す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ふざけていじめたり、<ruby><rb>困</rb><rt>こま</rt></ruby>らせたりしておもしろがる。",
+          "hyouki": [
+            "からかう"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ひたい。",
+          "hyouki": [
+            "額"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>書</rb><rt>しょ</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れて、かべにかけるもの。",
+          "hyouki": [
+            "額"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。",
+          "hyouki": [
+            "額"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。",
+          "hyouki": [
+            "隠れる"
+          ]
+        }
+      ]
+    }
+  }
+}
