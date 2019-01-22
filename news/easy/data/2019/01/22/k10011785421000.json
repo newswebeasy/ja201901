@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011785421000",
+  "news_prearranged_time": "2019-01-22 15:40:00",
+  "title": "アメリカでとても大きくて赤い満月が見える",
+  "title_with_ruby": "アメリカでとても<ruby>大<rt>おお</rt></ruby>きくて<ruby>赤<rt>あか</rt></ruby>い<ruby>満月<rt>まんげつ</rt></ruby>が<ruby>見<rt>み</rt></ruby>える",
+  "outline_with_ruby": "<p>アメリカなどで<ruby>２０日<rt>はつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>満月<rt>まんげつ</rt></ruby></a>が<ruby>見<rt>み</rt></ruby>えました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190121/../20190121/K10011785421_1901211703_1901211724_01_03.jpg",
+  "news_web_movie_uri": "k10011785421_201901211703_201901211704.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011785421000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011785421000/k10011785421000.html"
+}
