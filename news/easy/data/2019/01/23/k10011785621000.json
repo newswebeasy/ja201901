@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011785621000",
+  "news_prearranged_time": "2019-01-23 11:30:00",
+  "title": "ロボットが病院で漫才を見せる",
+  "title_with_ruby": "ロボットが<ruby>病院<rt>びょういん</rt></ruby>で<ruby>漫才<rt>まんざい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる",
+  "outline_with_ruby": "<p><ruby>神戸市<rt>こうべし</rt></ruby>にある<ruby>甲南大学<rt>こうなんだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'>グループ</a>は、<ruby>漫才<rt>まんざい</rt></ruby>をする<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>の<ruby>研究<rt>けんきゅう</rt></ruby>をしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190121/../20190121/K10011785621_1901211834_1901211849_01_03.jpg",
+  "news_web_movie_uri": "k10011785621_201901211834_201901211836.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011785621000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011785621000/k10011785621000.html"
+}

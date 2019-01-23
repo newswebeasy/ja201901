@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011786711000",
+  "news_prearranged_time": "2019-01-23 16:10:00",
+  "title": "羽田空港で自動運転のバスが走る実験",
+  "title_with_ruby": "<ruby>羽田空港<rt>はねだくうこう</rt></ruby>で<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>のバスが<ruby>走<rt>はし</rt></ruby>る<ruby>実験<rt>じっけん</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>は５<ruby>年<rt>ねん</rt></ruby>で３<ruby>倍<rt>ばい</rt></ruby>ぐらいに<ruby>増<rt>ふ</rt></ruby>えました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190122/../20190122/K10011786711_1901221646_1901221655_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011786711000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011786711000/k10011786711000.html"
+}

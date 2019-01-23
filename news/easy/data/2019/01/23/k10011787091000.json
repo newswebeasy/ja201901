@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011787091000",
+  "news_prearranged_time": "2019-01-23 16:10:00",
+  "title": "アメリカの新聞「トランプ大統領のうそは２年で８１５８回」",
+  "title_with_ruby": "アメリカの<ruby>新聞<rt>しんぶん</rt></ruby>「トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>のうそは２<ruby>年<rt>ねん</rt></ruby>で８１５８<ruby>回<rt>かい</rt></ruby>」",
+  "outline_with_ruby": "<p>アメリカの<ruby>新聞<rt>しんぶん</rt></ruby>の「ワシントン・ポスト」は、トランプ<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>になってから２<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>言<rt>い</rt></ruby>ったりインターネットに<ruby>書<rt>か</rt></ruby>いたりしたことを<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>調<rt>しら</rt></ruby>べました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190122/../20190122/K10011787091_1901221942_1901221943_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011787091000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011787091000/k10011787091000.html"
+}

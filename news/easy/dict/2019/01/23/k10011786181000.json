@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "マウスなどの<ruby><rb>入力装置</rb><rt>にゅうりょくそうち</rt></ruby>のボタンをおすこと。２<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>続</rb><rt>つづ</rt></ruby>けておすことをダブルクリックという。",
+          "hyouki": [
+            "クリック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>。ローマカトリック<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>の、いちばん<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>教皇</rb><rt>きょうこう</rt></ruby>。",
+          "hyouki": [
+            "法王"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>で、<ruby><rb>神</rb><rt>かみ</rt></ruby>に<ruby><rb>祈</rb><rt>いの</rt></ruby>りをささげること。",
+          "hyouki": [
+            "礼拝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>。ローマカトリック<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>の、いちばん<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>教皇</rb><rt>きょうこう</rt></ruby>。",
+          "hyouki": [
+            "法王"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。",
+          "hyouki": [
+            "ダウンロード"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "通訳"
+          ]
+        }
+      ]
+    }
+  }
+}
