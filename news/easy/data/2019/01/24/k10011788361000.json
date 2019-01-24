@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011788361000",
+  "news_prearranged_time": "2019-01-24 17:25:00",
+  "title": "インフルエンザの女性が駅のホームから落ちて亡くなる",
+  "title_with_ruby": "インフルエンザの<ruby>女性<rt>じょせい</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>のホームから<ruby>落<rt>お</rt></ruby>ちて<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>メトロの<ruby>中目黒駅<rt>なかめぐろえき</rt></ruby>で２２<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、３７<ruby>歳<rt>さい</rt></ruby>の<ruby>会社員<rt>かいしゃいん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'>ホーム</a>から<ruby>落<rt>お</rt></ruby>ちて、<ruby>電車<rt>でんしゃ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0002'>はね</a>られて<ruby>亡<rt>な</rt></ruby>くなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190123/../20190123/K10011788361_1901231734_1901231734_01_02.jpg",
+  "news_web_movie_uri": "k10011788361_201901231832_201901231832.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011788361000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011788361000/k10011788361000.html"
+}

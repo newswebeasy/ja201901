@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。",
+          "hyouki": [
+            "富士山"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ]
+    }
+  }
+}

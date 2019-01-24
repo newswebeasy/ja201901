@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。",
+          "hyouki": [
+            "インフルエンザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>駅</rb><rt>えき</rt></ruby>で<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>降</rb><rt>お</rt></ruby>りする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ホーム。",
+          "hyouki": [
+            "プラットホーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はじきとばす。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "咳"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>並</rb><rt>なら</rt></ruby>ぶ。<ruby><rb>並</rb><rt>なら</rt></ruby>んだもの。",
+          "hyouki": [
+            "列"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。",
+          "hyouki": [
+            "列"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "列"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれている<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。みずけ。",
+          "hyouki": [
+            "水分"
+          ]
+        }
+      ]
+    }
+  }
+}
