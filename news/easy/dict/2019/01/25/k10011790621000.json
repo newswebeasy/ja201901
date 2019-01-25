@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>のおどり。<ruby><rb>歌</rb><rt>うた</rt></ruby>やことばを<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>身</rb><rt>み</rt></ruby>ぶりや、おどりだけで<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "バレエ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しい。",
+          "hyouki": [
+            "劇"
+          ]
+        },
+        {
+          "def": "しばい。ドラマ。",
+          "hyouki": [
+            "劇"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどりをおどることを、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ダンサー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>武士</rb><rt>ぶし</rt></ruby>。",
+          "hyouki": [
+            "侍"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（１５３４～１５８２）<ruby><rb>戦国時代</rb><rt>せんごくじだい</rt></ruby>の<ruby><rb>武将</rb><rt>ぶしょう</rt></ruby>。<ruby><rb>室町幕府</rb><rt>むろまちばくふ</rt></ruby>をほろぼし、<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を<ruby><rb>統一</rb><rt>とういつ</rt></ruby>しようとしたが、<ruby><rb>家来</rb><rt>けらい</rt></ruby>の<ruby><rb>明智光秀</rb><rt>あけちみつひで</rt></ruby>に<ruby><rb>京都</rb><rt>きょうと</rt></ruby>の<ruby><rb>本能寺</rb><rt>ほんのうじ</rt></ruby>でおそわれて<ruby><rb>自害</rb><rt>じがい</rt></ruby>した。",
+          "hyouki": [
+            "織田信長"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "しなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>働</rb><rt>はたら</rt></ruby>かせる。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "役"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "とびこえる。",
+          "hyouki": [
+            "跳ぶ"
+          ]
+        },
+        {
+          "def": "はねる。",
+          "hyouki": [
+            "跳ぶ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ]
+    }
+  }
+}

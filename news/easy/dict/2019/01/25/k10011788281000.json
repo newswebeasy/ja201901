@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>のレールにまたがって、またはつり<ruby><rb>下</rb><rt>さ</rt></ruby>がって<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>。",
+          "hyouki": [
+            "モノレール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１９１７<ruby><rb>年</rb><rt>ねん</rt></ruby>に、ロシア<ruby><rb>帝国</rb><rt>ていこく</rt></ruby>をたおしてできた<ruby><rb>国</rb><rt>くに</rt></ruby>。１９９１<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>解体</rb><rt>かいたい</rt></ruby>して、<ruby><rb>今</rb><rt>いま</rt></ruby>のロシアやカザフスタンなどに<ruby><rb>分</rb><rt>わ</rt></ruby>かれた。ソ<ruby><rb>連</rb><rt>れん</rt></ruby>。",
+          "hyouki": [
+            "ソビエト連邦"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "（<ruby><rb>外</rb><rt>そと</rt></ruby>から<ruby><rb>見</rb><rt>み</rt></ruby>た）<ruby><rb>人</rb><rt>ひと</rt></ruby>やものごとのようす。",
+          "hyouki": [
+            "状態"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}
