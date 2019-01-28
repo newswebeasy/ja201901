@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>たちの<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "クラブ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>黒</rb><rt>くろ</rt></ruby>い「♣」のしるしのついたトランプのカード。みつば。",
+          "hyouki": [
+            "クラブ"
+          ]
+        },
+        {
+          "def": "ゴルフの<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "クラブ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "飛び込む"
+          ]
+        },
+        {
+          "def": "とつぜん<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "飛び込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "飛び込む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>苦</rb><rt>くる</rt></ruby>しさ・<ruby><rb>痛</rb><rt>いた</rt></ruby>さ・つらさなどを、じっとこらえること。しんぼう。",
+          "hyouki": [
+            "我慢"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かくする。<ruby><rb>寒</rb><rt>さむ</rt></ruby>くなくする。",
+          "hyouki": [
+            "暖める"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>挑戦</rb><rt>ちょうせん</rt></ruby>。",
+          "hyouki": [
+            "チャレンジ"
+          ]
+        }
+      ]
+    }
+  }
+}
