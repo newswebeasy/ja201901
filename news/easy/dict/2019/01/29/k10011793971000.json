@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ヒツジに<ruby><rb>似</rb><rt>に</rt></ruby>た、ウシのなかまの<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>があり、<ruby><rb>雄</rb><rt>おす</rt></ruby>にはあごひげがある。<ruby><rb>乳</rb><rt>ちち</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>・<ruby><rb>毛</rb><rt>け</rt></ruby>などを<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。",
+          "hyouki": [
+            "山羊"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        },
+        {
+          "def": "スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アフリカにすむ<ruby><rb>馬</rb><rt>うま</rt></ruby>。<ruby><rb>全身</rb><rt>ぜんしん</rt></ruby>に<ruby><rb>黒</rb><rt>くろ</rt></ruby>と<ruby><rb>白</rb><rt>しろ</rt></ruby>のしまがある。ゼブラ。",
+          "hyouki": [
+            "しま馬"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。",
+          "hyouki": [
+            "中東"
+          ]
+        }
+      ]
+    }
+  }
+}

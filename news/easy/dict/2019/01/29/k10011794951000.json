@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>筒</rb><rt>つつ</rt></ruby>にレンズや<ruby><rb>反射鏡</rb><rt>はんしゃきょう</rt></ruby>をはめて、<ruby><rb>遠</rb><rt>とお</rt></ruby>くのものを<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>えるようにした<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "望遠鏡"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>として<ruby><rb>動</rb><rt>うご</rt></ruby>いている<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>や、その<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>、<ruby><rb>彗星</rb><rt>すいせい</rt></ruby>・<ruby><rb>流星</rb><rt>りゅうせい</rt></ruby>などからできている。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>もその<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。",
+          "hyouki": [
+            "太陽系"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>八番</rb><rt>はちばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。",
+          "hyouki": [
+            "海王星"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。",
+          "hyouki": [
+            "直径"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って<ruby><rb>回</rb><rt>まわ</rt></ruby>っている<ruby><rb>八</rb><rt>やっ</rt></ruby>つの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>水星</rb><rt>すいせい</rt></ruby>・<ruby><rb>火星</rb><rt>かせい</rt></ruby>・<ruby><rb>金星</rb><rt>きんせい</rt></ruby>など。<ruby><rb>遊星</rb><rt>ゆうせい</rt></ruby>。",
+          "hyouki": [
+            "惑星"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ]
+    }
+  }
+}

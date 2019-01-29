@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011793071000",
+  "news_prearranged_time": "2019-01-29 11:30:00",
+  "title": "「スマートキー」を悪用して車を盗もうとする人がいる",
+  "title_with_ruby": "「スマートキー」を<ruby>悪用<rt>あくよう</rt></ruby>して<ruby>車<rt>くるま</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>もうとする<ruby>人<rt>ひと</rt></ruby>がいる",
+  "outline_with_ruby": "<p>「スマートキー」という<ruby>鍵<rt>かぎ</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>電波<rt>でんぱ</rt></ruby></a>と、<ruby>車<rt>くるま</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>電波<rt>でんぱ</rt></ruby></a>を<ruby>使<rt>つか</rt></ruby>って、ドアのロックを<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>外<rt>はず</rt></ruby>す</a>ことができる<ruby>車<rt>くるま</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190127/../20190127/K10011793071_1901271928_1901271931_01_03.jpg",
+  "news_web_movie_uri": "k10011793071_201901271928_201901271930.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011793071000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011793071000/k10011793071000.html"
+}

@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>に<ruby><rb>仕</rb><rt>つか</rt></ruby>える<ruby><rb>人</rb><rt>ひと</rt></ruby>。「<ruby><rb>僧侶</rb><rt>そうりょ</rt></ruby>」を<ruby><rb>親</rb><rt>した</rt></ruby>しみ<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "坊さん"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "罰金"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>和服</rb><rt>わふく</rt></ruby>や<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>のふち。",
+          "hyouki": [
+            "裾"
+          ]
+        },
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>のふもと。",
+          "hyouki": [
+            "裾"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。",
+          "hyouki": [
+            "検察庁"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにする、よりどころとなるもの。",
+          "hyouki": [
+            "証拠"
+          ]
+        }
+      ]
+    }
+  }
+}

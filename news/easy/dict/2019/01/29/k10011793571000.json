@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１９３９<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby><ruby><rb>２０年</rb><rt>にじゅうねん</rt></ruby>）<ruby><rb>８月</rb><rt>はちがつ</rt></ruby><ruby><rb>１５</rb><rt>じゅうご</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第二次世界大戦"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>として<ruby><rb>外国</rb><rt>がいこく</rt></ruby>にいて、その<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役人</rb><rt>やくにん</rt></ruby>。<ruby><rb>大使</rb><rt>たいし</rt></ruby>・<ruby><rb>公使</rb><rt>こうし</rt></ruby>などがある。",
+          "hyouki": [
+            "外交官"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>第一次世界大戦後</rb><rt>だいいちじせかいたいせんご</rt></ruby>にドイツでできた<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。<ruby><rb>党首</rb><rt>とうしゅ</rt></ruby>ヒトラーの<ruby><rb>独裁</rb><rt>どくさい</rt></ruby>のもと、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こしたが、<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>に<ruby><rb>負</rb><rt>ま</rt></ruby>けた。ナチ。",
+          "hyouki": [
+            "ナチス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。",
+          "hyouki": [
+            "ビザ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。",
+          "hyouki": [
+            "命令"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "命"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。",
+          "hyouki": [
+            "命"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。",
+          "hyouki": [
+            "勇気"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "感謝"
+          ]
+        }
+      ]
+    }
+  }
+}
