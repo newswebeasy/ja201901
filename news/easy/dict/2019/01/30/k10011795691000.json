@@ -1,0 +1,182 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。",
+          "hyouki": [
+            "介護"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さ。",
+          "hyouki": [
+            "体重"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さ・<ruby><rb>長</rb><rt>なが</rt></ruby>さ・かさ・<ruby><rb>速</rb><rt>はや</rt></ruby>さなどをはかる<ruby><rb>器械</rb><rt>きかい</rt></ruby>。メーター。",
+          "hyouki": [
+            "計器"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>の<ruby><rb>指</rb><rt>ゆび</rt></ruby>を<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>、<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>に<ruby><rb>曲</rb><rt>ま</rt></ruby>げる。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>げて<ruby><rb>物</rb><rt>もの</rt></ruby>をつかむ。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>知</rb><rt>し</rt></ruby>る。つかむ。",
+          "hyouki": [
+            "握る"
+          ]
+        },
+        {
+          "def": "にぎり<ruby><rb>飯</rb><rt>めし</rt></ruby>やにぎりずしを<ruby><rb>作</rb><rt>つく</rt></ruby>る。",
+          "hyouki": [
+            "握る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をにぎるときに<ruby><rb>物</rb><rt>もの</rt></ruby>にさわる<ruby><rb>側</rb><rt>がわ</rt></ruby>の、<ruby><rb>手</rb><rt>て</rt></ruby>の<ruby><rb>平</rb><rt>たい</rt></ruby>らなところ。",
+          "hyouki": [
+            "手のひら"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。",
+          "hyouki": [
+            "筋肉"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "かさ。ますめ。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "ものをはかる。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "量"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。",
+          "hyouki": [
+            "転ぶ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>い。<ruby><rb>平均</rb><rt>へいきん</rt></ruby>。",
+          "hyouki": [
+            "バランス"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。",
+          "hyouki": [
+            "ストレス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>液</rb><rt>えき</rt></ruby>。<ruby><rb>血液</rb><rt>けつえき</rt></ruby>といっしょに<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>って、いろいろの<ruby><rb>器官</rb><rt>きかん</rt></ruby>のはたらきを<ruby><rb>調節</rb><rt>ちょうせつ</rt></ruby>する。",
+          "hyouki": [
+            "ホルモン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>長</rb><rt>なが</rt></ruby>くなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでいたものが、ぴんとなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がっていたものが、まっすぐになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生長</rb><rt>せいちょう</rt></ruby>する。<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>する。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "さかんになる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "もっとよくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        },
+        {
+          "def": "つかれて<ruby><rb>動</rb><rt>うご</rt></ruby>けなくなる。",
+          "hyouki": [
+            "伸びる"
+          ]
+        }
+      ]
+    }
+  }
+}
