@@ -41,6 +41,18 @@
       "title": "朝食前のあなたに…ちょっと気になる国際ニュース",
       "time": "",
       "datetime": ""
+    },
+    {
+      "link": "http://www.nhk.or.jp/kaisetsu-blog/900/312827.html?id=international",
+      "title": "「激化する米中対立 『サイバー』の脅威」（キャッチ！ワールドアイ）",
+      "time": "解説委員室ブログ 1月17日",
+      "datetime": "2019-01-17"
+    },
+    {
+      "link": "//www3.nhk.or.jp/news/special/sakusakukeizai/articles/20181105.html",
+      "title": "ＧＡＦＡに吹く逆風",
+      "time": "サクサク経済Ｑ＆Ａ 11月5日",
+      "datetime": "2018-11-05"
     }
   ],
   "word": [
@@ -57,5 +69,5 @@
   "yyyy": "2019",
   "mm": "01",
   "dd": "31",
-  "url": "https://www3.nhk.or.jp/news/html/20190131/k10011797471000.html?utm_int=news-new_contents_list-items_011"
+  "url": "https://www3.nhk.or.jp/news/html/20190131/k10011797471000.html"
 }

@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>の<ruby><rb>肉</rb><rt>にく</rt></ruby>をすりつぶして<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけ、むしたり<ruby><rb>焼</rb><rt>や</rt></ruby>いたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "かまぼこ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "そのまま、しまっておくこと。",
+          "hyouki": [
+            "保存"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。",
+          "hyouki": [
+            "材料"
+          ]
+        },
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。",
+          "hyouki": [
+            "材料"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "いいにおい。",
+          "hyouki": [
+            "香り"
+          ]
+        },
+        {
+          "def": "そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。",
+          "hyouki": [
+            "香り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて、<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "チーズ"
+          ]
+        }
+      ]
+    }
+  }
+}
